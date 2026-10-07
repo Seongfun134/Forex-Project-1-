@@ -1,0 +1,418 @@
+[
+  {
+    "symbol": "AUDUSD",
+    "timeframe": "daily",
+    "file": "AUDUSD_daily.csv",
+    "rows": 4981,
+    "start_date": "2006-05-15",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "CADUSD",
+    "timeframe": "daily",
+    "file": "CADUSD_daily.csv",
+    "rows": 5673,
+    "start_date": "2003-09-16",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "CHFUSD",
+    "timeframe": "daily",
+    "file": "CHFUSD_daily.csv",
+    "rows": 5671,
+    "start_date": "2003-09-16",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "CNYUSD",
+    "timeframe": "daily",
+    "file": "CNYUSD_daily.csv",
+    "rows": 6007,
+    "start_date": "2001-06-24",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "DKKUSD",
+    "timeframe": "daily",
+    "file": "DKKUSD_daily.csv",
+    "rows": 5621,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "EURGBP",
+    "timeframe": "daily",
+    "file": "EURGBP_daily.csv",
+    "rows": 6645,
+    "start_date": "2000-01-03",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "EURJPY",
+    "timeframe": "daily",
+    "file": "EURJPY_daily.csv",
+    "rows": 5830,
+    "start_date": "2003-01-23",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "EURUSD",
+    "timeframe": "daily",
+    "file": "EURUSD_daily.csv",
+    "rows": 5605,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "GBPJPY",
+    "timeframe": "daily",
+    "file": "GBPJPY_daily.csv",
+    "rows": 5621,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "GBPUSD",
+    "timeframe": "daily",
+    "file": "GBPUSD_daily.csv",
+    "rows": 5617,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "Gold",
+    "timeframe": "daily",
+    "file": "Gold_daily.csv",
+    "rows": 6235,
+    "start_date": "2000-08-30",
+    "end_date": "2025-07-08"
+  },
+  {
+    "symbol": "HUFUSD",
+    "timeframe": "daily",
+    "file": "HUFUSD_daily.csv",
+    "rows": 5602,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "IDRUSD",
+    "timeframe": "daily",
+    "file": "IDRUSD_daily.csv",
+    "rows": 6059,
+    "start_date": "2001-06-27",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "INRUSD",
+    "timeframe": "daily",
+    "file": "INRUSD_daily.csv",
+    "rows": 5602,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "JPYUSD",
+    "timeframe": "daily",
+    "file": "JPYUSD_daily.csv",
+    "rows": 6625,
+    "start_date": "2000-01-03",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "KRWUSD",
+    "timeframe": "daily",
+    "file": "KRWUSD_daily.csv",
+    "rows": 5603,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "MXNUSD",
+    "timeframe": "daily",
+    "file": "MXNUSD_daily.csv",
+    "rows": 5626,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "NOKUSD",
+    "timeframe": "daily",
+    "file": "NOKUSD_daily.csv",
+    "rows": 6064,
+    "start_date": "2001-07-15",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "NZDUSD",
+    "timeframe": "daily",
+    "file": "NZDUSD_daily.csv",
+    "rows": 5606,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "Oil",
+    "timeframe": "daily",
+    "file": "Oil_daily.csv",
+    "rows": 6244,
+    "start_date": "2000-08-23",
+    "end_date": "2025-07-08"
+  },
+  {
+    "symbol": "PLNUSD",
+    "timeframe": "daily",
+    "file": "PLNUSD_daily.csv",
+    "rows": 5604,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "SEKUSD",
+    "timeframe": "daily",
+    "file": "SEKUSD_daily.csv",
+    "rows": 6064,
+    "start_date": "2001-07-15",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "SGDUSD",
+    "timeframe": "daily",
+    "file": "SGDUSD_daily.csv",
+    "rows": 5617,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "Silver",
+    "timeframe": "daily",
+    "file": "Silver_daily.csv",
+    "rows": 6237,
+    "start_date": "2000-08-30",
+    "end_date": "2025-07-08"
+  },
+  {
+    "symbol": "THBUSD",
+    "timeframe": "daily",
+    "file": "THBUSD_daily.csv",
+    "rows": 5604,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "ZARUSD",
+    "timeframe": "daily",
+    "file": "ZARUSD_daily.csv",
+    "rows": 5619,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "AUDUSD",
+    "timeframe": "weekly",
+    "file": "AUDUSD_weekly.csv",
+    "rows": 998,
+    "start_date": "2006-05-24",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "CADUSD",
+    "timeframe": "weekly",
+    "file": "CADUSD_weekly.csv",
+    "rows": 1138,
+    "start_date": "2003-09-25",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "CHFUSD",
+    "timeframe": "weekly",
+    "file": "CHFUSD_weekly.csv",
+    "rows": 1138,
+    "start_date": "2003-09-25",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "CNYUSD",
+    "timeframe": "weekly",
+    "file": "CNYUSD_weekly.csv",
+    "rows": 1205,
+    "start_date": "2001-07-08",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "DKKUSD",
+    "timeframe": "weekly",
+    "file": "DKKUSD_weekly.csv",
+    "rows": 1127,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "EURGBP",
+    "timeframe": "weekly",
+    "file": "EURGBP_weekly.csv",
+    "rows": 1331,
+    "start_date": "2000-01-06",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "EURJPY",
+    "timeframe": "weekly",
+    "file": "EURJPY_weekly.csv",
+    "rows": 1169,
+    "start_date": "2003-01-23",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "EURUSD",
+    "timeframe": "weekly",
+    "file": "EURUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "GBPJPY",
+    "timeframe": "weekly",
+    "file": "GBPJPY_weekly.csv",
+    "rows": 1127,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "GBPUSD",
+    "timeframe": "weekly",
+    "file": "GBPUSD_weekly.csv",
+    "rows": 1127,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "Gold",
+    "timeframe": "weekly",
+    "file": "Gold_weekly.csv",
+    "rows": 1249,
+    "start_date": "2000-08-30",
+    "end_date": "2025-07-08"
+  },
+  {
+    "symbol": "HUFUSD",
+    "timeframe": "weekly",
+    "file": "HUFUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "IDRUSD",
+    "timeframe": "weekly",
+    "file": "IDRUSD_weekly.csv",
+    "rows": 1215,
+    "start_date": "2001-07-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "INRUSD",
+    "timeframe": "weekly",
+    "file": "INRUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "JPYUSD",
+    "timeframe": "weekly",
+    "file": "JPYUSD_weekly.csv",
+    "rows": 1327,
+    "start_date": "2000-01-06",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "KRWUSD",
+    "timeframe": "weekly",
+    "file": "KRWUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "MXNUSD",
+    "timeframe": "weekly",
+    "file": "MXNUSD_weekly.csv",
+    "rows": 1127,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "NOKUSD",
+    "timeframe": "weekly",
+    "file": "NOKUSD_weekly.csv",
+    "rows": 1215,
+    "start_date": "2001-07-19",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "NZDUSD",
+    "timeframe": "weekly",
+    "file": "NZDUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "Oil",
+    "timeframe": "weekly",
+    "file": "Oil_weekly.csv",
+    "rows": 1250,
+    "start_date": "2000-08-23",
+    "end_date": "2025-07-08"
+  },
+  {
+    "symbol": "PLNUSD",
+    "timeframe": "weekly",
+    "file": "PLNUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "SEKUSD",
+    "timeframe": "weekly",
+    "file": "SEKUSD_weekly.csv",
+    "rows": 1215,
+    "start_date": "2001-07-19",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "SGDUSD",
+    "timeframe": "weekly",
+    "file": "SGDUSD_weekly.csv",
+    "rows": 1126,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "Silver",
+    "timeframe": "weekly",
+    "file": "Silver_weekly.csv",
+    "rows": 1250,
+    "start_date": "2000-08-30",
+    "end_date": "2025-07-08"
+  },
+  {
+    "symbol": "THBUSD",
+    "timeframe": "weekly",
+    "file": "THBUSD_weekly.csv",
+    "rows": 1123,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  },
+  {
+    "symbol": "ZARUSD",
+    "timeframe": "weekly",
+    "file": "ZARUSD_weekly.csv",
+    "rows": 1127,
+    "start_date": "2003-12-01",
+    "end_date": "2025-07-07"
+  }
+]
